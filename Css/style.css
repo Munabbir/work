@@ -1,0 +1,77 @@
+.fairst-sec{
+    background-image: url(../img/shakib.jpeg);
+    width: 100%;
+    height: 740px;
+     background-position: center;
+     background-size: cover;
+}
+.fairst-sec h1 {
+    padding-top: 173px;
+    padding-left: 110px;
+    color: #fff;
+}
+ .fairst-sec p{
+     padding-left: 110px;
+     color: #fff;
+
+ }
+ .fairst-sec a{
+     padding-left: 110px;
+     color: #fff;
+
+ }
+ .second-sec {
+    width: 100%;
+    height: 375px;
+}
+ .second-sec h1 {
+    padding-left: 100px;
+    padding-top: 52px;
+}
+ .second-sec p{
+     padding-top: 20px;
+     padding-left: 100px;
+
+ }
+ .third-sec {
+    width: 100%;
+    height: 600px;x;
+    background-color: antiquewhite;
+}
+.third-sec h1 {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.third-sec img {
+    width: 30%;
+    margin-left: 110px;
+    padding-top: 21px;
+}
+.progress{
+    float: left;
+    padding-top: 0px;
+}
+.grid-containt {
+    float: right;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 87px;
+}
+.forth-sec{
+    width: 100%;
+    height: 300px;
+}
+.forth-sec h1{
+    padding-left: 100px;
+    padding-top: 21px;
+}
+.forth-sec h2{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.forth-sec p{
+    padding-left: 100px;
+    padding-top: 20px;
+    letter-spacing: 1px;
+}
+ 
